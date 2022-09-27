@@ -1,0 +1,15 @@
+.login{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    padding-top: 70px;
+}
+
+.btn-login{
+    background: #3F50B5;
+    color: white;
+}
+.btn-login:hover{
+    background: #5b6ed7;
+    color: white;
+}

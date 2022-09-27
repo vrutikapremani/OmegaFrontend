@@ -1,0 +1,11 @@
+mat-toolbar {
+  background: #3F50B5;
+  color: white;
+}
+
+.header-menu {
+  float: right !important
+}
+.example-spacer{
+  text-align: center;
+}
